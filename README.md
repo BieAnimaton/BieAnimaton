@@ -2,11 +2,12 @@
 - My name's Gabriel, 19 yeas old, and i :heart: programming and technology.
 - I like to code web, mobile applications and some projetcs with Ardino.
 
-<p align='center'>
-  ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- </p>
-
+### Learning
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!--
 **BieAnimaton/BieAnimaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
