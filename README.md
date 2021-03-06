@@ -1,6 +1,9 @@
 ### Hello guys, 👋
 - My name's Gabriel, 19 yeas old, and i :heart: programming and technology.
 - I like to code web, mobile applications and some projetcs with Ardino.
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+
 <!--
 **BieAnimaton/BieAnimaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
