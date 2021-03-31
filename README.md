@@ -1,6 +1,6 @@
 ### Hello guys, 👋
 - My name's Gabriel, 19 yeas old, and i :heart: programming and technology.
-- I like to code web, mobile applications and some projetcs with Ardino.
+- I like to code Web, Mobile Apps and some Arduino projetcs.
 
 ### Learning
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
