@@ -3,8 +3,7 @@
 
 ### Skills and Learning
 <div style="margin: 0 auto;">
-  <h2>Languages:</h2>
-  <br>
+  <h3>Languages:</h3>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <br>
