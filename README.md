@@ -3,8 +3,8 @@
 - I like to code Web, Mobile Apps and some Arduino projetcs.
 
 ### Learning
-<div style={margin: auto;}>
-  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<div style="margin: auto;">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   <br>
   ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
