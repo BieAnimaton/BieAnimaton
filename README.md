@@ -1,5 +1,5 @@
 ### Hello guys, 👋
-- My name's Gabriel, 19 yeas old, and i :heart: programming and technology.
+- My name's Gabriel, 20 yeas old, and i :heart: programming and technology.
 
 ### Skills and Learning
 <div style="margin: 0 auto;">
