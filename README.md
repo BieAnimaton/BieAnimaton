@@ -6,11 +6,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BieAnimaton&theme=midnight-purple&show_icons=true">
  </div>
 
-### Skills and Learning
+### Skills
 <div style="margin: 0 auto;">
-  <h3>Languages:</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BieAnimaton&layout=compact&theme=midnight-purple" />
-  <br>
+ </div>
+
+### Learning
+<div style="margin: 0 auto;">
   <h3>Frameworks:</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
