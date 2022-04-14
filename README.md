@@ -1,16 +1,15 @@
 ### Hello guys, 👋
 - My name's Gabriel, 20 yeas old, and i :heart: programming and technology.
 
+### Stats
+<div style="margin: 0 auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BieAnimaton&theme=midnight-purple&show_icons=true">
+ </div>
+
 ### Skills and Learning
 <div style="margin: 0 auto;">
   <h3>Languages:</h3>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BieAnimaton&layout=compact&theme=midnight-purple" />
   <br>
   <h3>Frameworks:</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
