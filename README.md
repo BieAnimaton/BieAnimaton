@@ -1,5 +1,5 @@
-### Hello guys, 👋
-- My name's Gabriel, 20 yeas old, and i :heart: programming and technology.
+### What's up, guys! 👋
+- My name's Gabriel, i'm 20 years old and i love technology. I wish to be a future Ethical Hacker, also working with Backend development.
 
 ### Stats
 <div style="margin: 0 auto;">
