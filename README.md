@@ -3,12 +3,12 @@
 
 ### Stats
 <div style="margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BieAnimaton&theme=midnight-purple&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=BieAnimaton&theme=tokyonight&show_icons=true">
  </div>
 
 ### Skills:
 <div style="margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BieAnimaton&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BieAnimaton&layout=compact&theme=tokyonight" />
  </div>
 
 <div style="margin: 0 auto;">
