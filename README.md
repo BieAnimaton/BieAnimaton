@@ -1,5 +1,8 @@
-### What's up, guys! 👋
-- My name's Gabriel, i'm 20 years old and i love technology. I wish to be a future Ethical Hacker, also working with Backend development.
+## What's up, guys! 👋
+- I'm Gabriel, 20 years old. I wish to be a future Ethical Hacker or Fullstack Developer.
+
+College course: Computer Science  
+Learning: Amazon AWS
 
 ### Stats
 <div style="margin: 0 auto;">
@@ -22,8 +25,9 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <br>
   
-  ### Deploy:
+  ### Deploy & Cloud:
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)" />
   <br>
   
   ### OS Used:
