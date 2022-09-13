@@ -1,8 +1,8 @@
 ## What's up, guys! 👋
 - I'm Gabriel, 20 years old. I wish to be a future Ethical Hacker or Fullstack Developer.
 
-College course: Computer Science  
-Learning: Amazon AWS
+:blue_book: College Course: Computer Science  
+:computer: Learning: Amazon Web Services - AWS - S3, RDS, EC2, ...
 
 ### Stats
 <div style="margin: 0 auto;">
