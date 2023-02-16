@@ -1,8 +1,8 @@
 ## What's up, guys! 👋
-- I'm Gabriel, 20 years old. I wish to be a future Ethical Hacker or Fullstack Developer.
+- I'm Gabriel, 20 years old, a futue Ethical Hacker.
 
 :blue_book: College Course: Computer Science  
-:computer: Learning: Amazon Web Services - AWS - S3, RDS, EC2, ...
+:computer: Practicing on HackTheBox
 
 ### Stats
 <div style="margin: 0 auto;">
