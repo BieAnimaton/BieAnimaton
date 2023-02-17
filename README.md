@@ -4,11 +4,6 @@
 :blue_book: College Course: Computer Science  
 :computer: Practicing on HackTheBox
 
-### Stats
-<div style="margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BieAnimaton&theme=tokyonight&show_icons=true">
-</div>
-
 ### Hacking
 <div style="margin: 0 auto;">
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
@@ -23,6 +18,11 @@
 ### Skills:
 <div style="margin: 0 auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BieAnimaton&layout=compact&theme=tokyonight" />
+</div>
+
+### Stats
+<div style="margin: 0 auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BieAnimaton&theme=tokyonight&show_icons=true">
 </div>
 
 <!--
