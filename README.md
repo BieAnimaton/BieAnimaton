@@ -13,9 +13,9 @@
 <div style="margin: 0 auto;">
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
   <br >
-  <img src="https://user-images.githubusercontent.com/52220244/219526277-d60c3beb-5b14-49ed-bfb6-869284be5e3a.png" />
+  <img src="https://user-images.githubusercontent.com/52220244/219526131-8fd25c56-e02d-46ff-a299-62cbae7bcc86.png" />
   
-  <img src="https://user-images.githubusercontent.com/52220244/219526135-d2d4fbd8-586c-400c-87c6-3c0c1a969bb7.png" />
+  <img src="https://user-images.githubusercontent.com/52220244/219526277-d60c3beb-5b14-49ed-bfb6-869284be5e3a.png" />
   <br >
   Profile: https://app.hackthebox.com/profile/581772
 </div>
