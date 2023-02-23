@@ -8,9 +8,9 @@
 <div style="margin: 0 auto;">
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
   <br >
-  <img src="https://user-images.githubusercontent.com/52220244/219526131-8fd25c56-e02d-46ff-a299-62cbae7bcc86.png" />
+  <img src="https://user-images.githubusercontent.com/52220244/220801870-3e93ba36-0a57-4588-9453-1984d2857ac8.png" />
   
-  <img src="https://user-images.githubusercontent.com/52220244/219526277-d60c3beb-5b14-49ed-bfb6-869284be5e3a.png" />
+  <img src="https://user-images.githubusercontent.com/52220244/220801873-c21c39b9-77ff-44e2-a589-c9ce3043e17c.png" />
   <br >
   Profile: https://app.hackthebox.com/profile/581772
 </div>
