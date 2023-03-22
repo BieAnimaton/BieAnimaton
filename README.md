@@ -33,13 +33,13 @@
   <img width="800px" src="https://user-images.githubusercontent.com/52220244/220801873-c21c39b9-77ff-44e2-a589-c9ce3043e17c.png" />
   <img width="800px" src="https://user-images.githubusercontent.com/52220244/220801870-3e93ba36-0a57-4588-9453-1984d2857ac8.png" />
   <br >
-  <h4 align="center">Profile: https://app.hackthebox.com/profile/581772</h4>
+  <h4 align="center"><a href="https://app.hackthebox.com/profile/581772" target="_blank">Profile</a></h4>
 </div>
 
 <h1 align="center">Contact me</h1>
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/gabriel-cossare-bragion-78a7b0180" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/gbiezin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <!--
