@@ -1,4 +1,4 @@
-<h1 align="center">What's up 👋,  I'm Gabriel Bragion</h1>
+<h1 align="center">What's up 👋,  I'm Gab</h1>
 <h2 align="center">Full Stack and Hacking Skills</h2>
 
 <h3 align="center">:blue_book: Coursing Computer Science  </h3>
