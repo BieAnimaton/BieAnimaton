@@ -37,10 +37,6 @@
   <h4 align="center"><a href="https://app.hackthebox.com/profile/581772" target="_blank">Profile</a></h4>
 </div>
 
-<h1 align="center">Contact me</h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-cossare-bragion-78a7b0180" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
 
 <!--
 **BieAnimaton/BieAnimaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
